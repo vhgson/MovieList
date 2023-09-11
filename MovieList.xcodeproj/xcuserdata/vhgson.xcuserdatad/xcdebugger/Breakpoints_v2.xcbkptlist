@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E92E7903-F7BE-41F7-B9C8-69A57FD69153"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8CA4CA1D-B227-4860-B165-3EDEC5167DAC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MovieList/Controller/MovieDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "110"
+            endingLineNumber = "110"
+            landmarkName = "invokeButtonAddWatchlist(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8CA4CA1D-B227-4860-B165-3EDEC5167DAC - 30ef89f0884b6da3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MovieList.MovieDetailViewController.invokeButtonAddWatchlist(__C.UIButton) -&gt; ()"
+                  moduleName = "MovieList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vhgson/Workspace/SoftwareEngineer/iOS%20Developer/SelfStuff/MovieList/MovieList/Controller/MovieDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "668">
+               </Location>
+               <Location
+                  uuid = "8CA4CA1D-B227-4860-B165-3EDEC5167DAC - 30ef89f0884b6da3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MovieList.MovieDetailViewController.invokeButtonAddWatchlist(__C.UIButton) -&gt; ()"
+                  moduleName = "MovieList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vhgson/Workspace/SoftwareEngineer/iOS%20Developer/SelfStuff/MovieList/MovieList/Controller/MovieDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "108">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
